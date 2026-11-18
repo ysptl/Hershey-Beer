@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hersheybeer.netlify.app/sitemap.xml
